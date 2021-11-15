@@ -11,12 +11,12 @@
     display:flex;
     flex-direction:row;    
 }
-.img
+img
 {
     border:0;
     margin:0;
 }
-.p
+p
 {
     margin:0;
     background-color: rgb(243, 179, 60);
